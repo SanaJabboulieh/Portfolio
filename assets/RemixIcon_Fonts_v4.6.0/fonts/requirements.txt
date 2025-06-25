@@ -1,3 +1,0 @@
-fastapi
-unicorn[standrad]
-D:\fastapi-tutorial\env\requirements.txt
